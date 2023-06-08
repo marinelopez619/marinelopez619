@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ivan!
-- 🌱 I’m currently learning from Udemy the complete Web Development Bootcamp for 2023 by Dr. Angela Yu to refresh my coding skills and return to the workforce.
+- 🌱 I will be starting a Master in Cybersecurity in the Fall of 2023
 - 👨🏽‍🎓 B.S. Computer Science and Engineering from the University of the Pacific
-- 👨🏽‍💻 I’m looking to collaborate on Full Stack applications in written in React, JS, NodeJS frameworks.
+- 👨🏽‍💻 Have started a Web Development business
 - 📫 Reach me by email at marinelopez619@yahoo.com
 
 <!---
